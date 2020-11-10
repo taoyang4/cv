@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+Tao Yang
+============
+
 Work Authorization
 ---------
-Permanent Resident of Canada seeking quantitative
-analyst work opportunity. May work as sole proprietorship for U.S.
-client. Prefer remote permanently or to near the end of COVID-19
-pandemic.
+Permanent Resident of Canada working as quantitative analyst. May work as sole proprietorship for U.S. client. 
+Prefer remote permanently or to near the end of COVID-19 pandemic.
 
 Education
 ---------
@@ -13,6 +13,7 @@ Education
 :   **The Ohio State University**
 
     Ph.D. in Mathematics, Advisor: Henri Moscovici, 
+    Noncommutative geometry and global analysis
     Overall GPA: 3.940/4.000.
 
 2004-2008
@@ -85,16 +86,23 @@ in a stochastic calculus for finance reading club.
 Skills
 --------------------
 
-Mathematics
+**Mathematics**
+:
+   
+    real analysis, probability, functional analysis, differential geometry,
+    finite difference, PDE, Monte-Carlo, Itô calculus, change of measure/numéraire,
+
+**Statistics**
 :   
-     real analysis, probability, functional analysis, differential geometry,
-     finite difference, PDE, Monte-Carlo, Itô calculus, change of measure/numéraire,
+    
+    regression analysis, multivariate analysis,
 
-Statistics
-:   regression analysis, multivariate analysis,
+**Programming**
+:   
 
-Programming
-:   Python, etc., Excel & macro, LaTeX  & macro, Pandas, Plotly, Dash, etc., Unix/Linux.
+    Python, etc., Excel & macro, LaTeX  & macro, Pandas, Plotly, Dash, etc., Unix/Linux.
 
-Dev Operation
-:   Agile Sprint, Git, CI/CD, JSON message processing, REST API, unit/integration tests.
+**Dev Practices**
+:   
+
+    Agile Sprint, Git, CI/CD, JSON message processing, REST API, unit/integration tests.
